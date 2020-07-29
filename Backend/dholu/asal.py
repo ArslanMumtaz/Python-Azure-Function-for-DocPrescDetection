@@ -19,7 +19,7 @@ scriptdir=os.path.dirname(scriptpath)
 
 # Add your Computer Vision subscription key and endpoint to your environment variables.
 # if 'COMPUTER_VISION_SUBSCRIPTION_KEY' in os.environ:
-subscription_key = '2307c752f57d4a6180146f12bbd0de60'
+subscription_key = 'Your subscription key'
 # else:
     # print("\nSet the COMPUTER_VISION_SUBSCRIPTION_KEY environment variable.\n**Restart your shell or IDE for changes to take effect.**")
     # sys.exit()
