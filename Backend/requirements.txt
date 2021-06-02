@@ -58,7 +58,7 @@ spellchecker==0.4
 sphinx-rtd-theme==0.2.4
 toml==0.10.1
 uritemplate==3.0.1
-urllib3==1.25.9
+urllib3==1.26.5
 Werkzeug==1.0.1
 wrapt==1.12.1
 yarg==0.1.9
